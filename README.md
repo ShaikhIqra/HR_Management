@@ -10,7 +10,7 @@ A simple command-line based Human Resource (HR) Management System built using Py
 - 🔍 Search Employee by ID
 - 📄 View All Employees
 - 🗑️ Delete Employee by ID
-- 💾 Data stored in `employees.csv`
+- 💾 Data stored in `employee.csv`
 
 ---
 
